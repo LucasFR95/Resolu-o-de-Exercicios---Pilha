@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.html": "njk",
+        "iostream": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
+    }
+}
